@@ -32,6 +32,7 @@ public class averagePrograms {
 			}
 		}
 		System.out.println( );
+		System.out.println("Added one line" );
 	}
 }
 
